@@ -9,7 +9,7 @@ Here are some photos and videos of how the study is going:<br>
 
 ![2021-08-10-03-21-19](https://user-images.githubusercontent.com/73872086/128818493-9ba17673-814f-43ec-ba04-e707c46f85ec.gif)<br>
 
-![Uploading Clone-Spotify-HTML_-CSS-e-JavaScript_Trim.gif…]()<br>
+![Clone-Spotify-HTML_-CSS-e-JavaScript_Trim](https://user-images.githubusercontent.com/73872086/128818942-eaf4e669-9d24-40f2-a9b7-aec94485b2a3.gif)<br>
 
 
 
@@ -24,5 +24,5 @@ Segue algumas fotos e vídeos de como está o estudo:<br>
 
 ![2021-08-10-03-21-19](https://user-images.githubusercontent.com/73872086/128818493-9ba17673-814f-43ec-ba04-e707c46f85ec.gif)<br>
 
-![Uploading Clone-Spotify-HTML_-CSS-e-JavaScript_Trim.gif…]()<br>
+![Clone-Spotify-HTML_-CSS-e-JavaScript_Trim](https://user-images.githubusercontent.com/73872086/128818942-eaf4e669-9d24-40f2-a9b7-aec94485b2a3.gif)<br>
 
