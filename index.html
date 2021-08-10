@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt/Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/style.css" rel="stylesheet">
+    <link href="./css/media.css" rel="stylesheet">
+    <link href="./font-face.css" rel="stylesheet">
+    <script src="./script.js" type="text/javascript"></script>
+    <title>Spotify Clone</title>
+</head>
+<body onclick="fechar()">
+
+    <div id="popup-mobile" class="popup-mobile">
+
+        <div class="popuptext">
+            <a href="javascript:fecharMobile();"><img src="./images/close.png" id="close"></a>
+
+            <h1 class="h1-nav">Premium</h1>
+            <h1 class="h1-nav">Suporte</h1>
+            <h1 class="h1-nav">Baixar</h1>
+            <h1 class="h1-nav">_</h1>
+            <a target="_blank" href="https://www.linkedin.com/in/alexandresaints/"><h2 class="h2-nav">LinkedIn</h2></a>
+            <a target="_blank" href="https://github.com/alexandresaints"><h2 class="h2-nav">Github</h2></a>
+
+            <img src="./images/spotify.png" alt="spotify" id="spotify-mbl">
+
+
+        </div>
+
+    </div>
+
+    <header>
+            <img src="./images/spotify.png" alt="spotify" id="spotify">
+        <nav>
+            <li>
+                <a href="#" class="nav">Premium</a>
+                <a href="#" class="nav">Suporte</a>
+                <a href="#" class="nav">Baixar</a>
+                <a href="#" class="nav"><span>|</span></a>
+            </li>
+            <img src="./images/foto.png" class="img-minha">
+            <a href="javascript: abrirMobile();"><img src="./images/bar.png" class="bar"></a>
+            <a href="javascript: abrir();" class="nav" onclick="abrir()">Perfil <span>v</span></a>
+        </nav>
+
+        <div id="popup" class="popup">
+            <div id="triangulo-para-cima"></div>
+            <div class="popup-txt">
+                <a href="https://www.linkedin.com/in/alexandresaints/" class="link-popup" id="black" target="_blank">LinkedIn</a><br><br>
+                <a href="https://github.com/alexandresaints" class="link-popup" id="gray" target="_blank">Github</a>
+            </div>
+        </div>
+    </header>
+
+
+    <main>
+        <div class="container">
+            <h1>Vá de Premium. E seja feliz!</h1>
+            <a href="#" class="green-a">OBTER SPOTIFY PREMIUM</a>
+        </div>
+        <div id="sujeito">
+            <a href="#" id="sujeito-txt">* Sujeito a termos e condições.</a>
+        </div>
+    </main>
+    
+</body>
+</html>

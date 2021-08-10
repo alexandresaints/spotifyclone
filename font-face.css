@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'CircularStdLight';
+    src: url('fonts/CircularStdLight.eot');
+    src: url('fonts/CircularStdLight.eot') format('embedded-opentype'),
+         url('fonts/CircularStdLight.woff2') format('woff2'),
+         url('fonts/CircularStdLight.woff') format('woff'),
+         url('fonts/CircularStdLight.ttf') format('truetype'),
+         url('fonts/CircularStdLight.svg#CircularStdLight') format('svg');
+}
+@font-face {
+    font-family: 'CircularStdMedium';
+    src: url('fonts/CircularStdMedium.eot');
+    src: url('fonts/CircularStdMedium.eot') format('embedded-opentype'),
+         url('fonts/CircularStdMedium.woff2') format('woff2'),
+         url('fonts/CircularStdMedium.woff') format('woff'),
+         url('fonts/CircularStdMedium.ttf') format('truetype'),
+         url('fonts/CircularStdMedium.svg#CircularStdMedium') format('svg');
+}
+@font-face {
+    font-family: 'CircularStdBold';
+    src: url('fonts/CircularStdBold.eot');
+    src: url('fonts/CircularStdBold.eot') format('embedded-opentype'),
+         url('fonts/CircularStdBold.woff2') format('woff2'),
+         url('fonts/CircularStdBold.woff') format('woff'),
+         url('fonts/CircularStdBold.ttf') format('truetype'),
+         url('fonts/CircularStdBold.svg#CircularStdBold') format('svg');
+}
