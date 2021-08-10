@@ -7,13 +7,9 @@ Here are some photos and videos of how the study is going:<br>
 
 ![Spotify](https://user-images.githubusercontent.com/73872086/128817880-560fdd37-09d5-43ab-bc11-f5261c5ca8d1.png)<br>
 
+![2021-08-10-03-21-19](https://user-images.githubusercontent.com/73872086/128818493-9ba17673-814f-43ec-ba04-e707c46f85ec.gif)<br>
 
-
-https://user-images.githubusercontent.com/73872086/128818071-0215b2af-75f0-43a6-8a90-925f3b7b8dbc.mp4 <br>
-
-
-
-https://user-images.githubusercontent.com/73872086/128818221-38e10e79-aa9c-43eb-8dd8-c7ab4fded039.mp4 <br>
+![Uploading Clone-Spotify-HTML_-CSS-e-JavaScript_Trim.gif…]()<br>
 
 
 
@@ -26,14 +22,7 @@ Segue algumas fotos e vídeos de como está o estudo:<br>
 
 ![Spotify](https://user-images.githubusercontent.com/73872086/128817880-560fdd37-09d5-43ab-bc11-f5261c5ca8d1.png)<br>
 
+![2021-08-10-03-21-19](https://user-images.githubusercontent.com/73872086/128818493-9ba17673-814f-43ec-ba04-e707c46f85ec.gif)<br>
 
-
-https://user-images.githubusercontent.com/73872086/128818071-0215b2af-75f0-43a6-8a90-925f3b7b8dbc.mp4 <br>
-
-
-
-https://user-images.githubusercontent.com/73872086/128818221-38e10e79-aa9c-43eb-8dd8-c7ab4fded039.mp4 <br>
-
-
-
+![Uploading Clone-Spotify-HTML_-CSS-e-JavaScript_Trim.gif…]()<br>
 
